@@ -1,0 +1,20 @@
+student:
+  id: 1
+  name: Vladyslav
+  surname: Tryhub
+  age: 24
+  gender: male
+  is_active: true
+  grades:
+    - 90
+    - 70
+    - 75
+  address:
+    country: Ukraine
+    city: Kyiv
+    street: st. Zakrevskogo
+    house_number: 77
+    apartment_number: 777
+  contacts:
+    email: test@test.me
+    phone: "+38077788778"
