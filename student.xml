@@ -1,0 +1,24 @@
+<student>
+    <id>1</id>
+    <name>Vladyslav</name>
+    <surname>Tryhub</surname>
+    <age>24</age>
+    <gender>male</gender>
+    <is_active>true</is_active>
+    <grades>
+        <grade>90</grade>
+        <grade>70</grade>
+        <grade>75</grade>
+    </grades>
+    <address>
+        <country>Ukraine</country>
+        <city>Kyiv</city>
+        <street>st. Zakrevskogo</street>
+        <house_number>77</house_number>
+        <apartment_number>77</apartment_number>
+    </address>
+    <contacts>
+        <email>test@test.me</email>
+        <phone>+38077788778</phone>
+    </contacts>
+</student>
